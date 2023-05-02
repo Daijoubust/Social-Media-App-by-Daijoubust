@@ -55,7 +55,7 @@ const RightBar = () => {
                                 <span>Topzaza</span>  pissed on bed
                             </p>
                         </div>
-                        <span>1 days ago</span>
+                        <span>1 day ago</span>
                     </div>
                     <div class="user">
                         <div class="userInfo">

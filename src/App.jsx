@@ -17,7 +17,7 @@ import "./style.scss"
 
 function App() {
 
-  const currentUser = true;
+  const currentUser = false;
 
   // const {darkMode} = useContext(DarkModeContext)
 
